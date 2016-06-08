@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:29:58.874469
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 10:49
 #+TITLE: 佛說聖觀自在菩薩不空王祕密心陀羅尼經
 #+PROPERTY: CBETA_ID T20n1099
 #+PROPERTY: ID KR6j0307
